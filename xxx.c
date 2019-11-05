@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("mimitarou\n");
+    printf("fatmimitarou\n");
 }
