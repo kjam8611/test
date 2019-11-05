@@ -2,5 +2,5 @@
 
 int main()
 {
-  printf("kajimura\n");
+    printf("kajimura\n");
 }
